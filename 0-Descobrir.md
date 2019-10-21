@@ -27,7 +27,15 @@ A identificação de desafios, de tendências, de cenários de inovação e das 
 * Consultor de Transformação Digital
 * Especialista UX 
 
+## Exemplos
+![tendencias](images/tendencias.png)
+
+![](images/cenario_inovacao.png)
+
 ![](images/rodape.png)
+
+
+
 
 
 
