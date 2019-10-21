@@ -35,4 +35,5 @@
 
 ![Iniciativas de numa Área de Transformação](images/iniciativas_area_transformacao.png)
 
+![rodapé](images/rodape.png)
 
