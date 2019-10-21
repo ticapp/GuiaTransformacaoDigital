@@ -1,6 +1,6 @@
 ﻿# 1. Definição da Visão de Transformação Digital
 
-![definir visao](images/definir_visao.png)
+![Definir Visão](images/definir_visao.png)
 
 ## Descrição
 

@@ -1,6 +1,6 @@
 # 0. Descobrir
 
-![Descobrir](images/processo-descobrir.png)
+![Descobrir](images/descobrir_processo.png)
 
 ## Descrição
 
