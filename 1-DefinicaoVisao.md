@@ -17,10 +17,10 @@
 * Definição do Programa  de Transformação Digital 
 
 ## Intervenientes
-##### Entidade Pùblica
+#### Entidade Pùblica
 * Dirigentes de topo
 
-##### Equipa de Transformação
+#### Equipa de Transformação
 * Gestor de Projeto
 * Especialista de Transformação Digital
 * Especialista UX

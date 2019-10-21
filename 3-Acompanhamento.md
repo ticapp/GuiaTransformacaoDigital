@@ -16,11 +16,11 @@ Com o objetivo de apoiar as entidades públicas a executar as iniciativas, defin
 * Apoiar as entidades públicas na avaliação dos entregáveis produzidos pelos fornecedores.
 
 ## Intervenientes
-##### Entidades Pùblicas
+#### Entidades Pùblicas
 * Sponsor do Projeto
 * Líder do Projeto
 
-##### Equipa de Transformação
+#### Equipa de Transformação
 * Gestor de Projeto
 * Especialista de Transformação Digital
 * Arquiteto Empresarial
