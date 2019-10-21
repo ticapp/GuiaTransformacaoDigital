@@ -24,7 +24,7 @@ A identificação de desafios, de tendências, de cenários de inovação e das 
 
 ##### Equipa de Transformação
 * Gestor de Projeto 
-* Consultor de Transformação Digital
+* Especialista em Transformação Digital
 * Especialista UX 
 
 ## Exemplos
