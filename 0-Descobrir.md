@@ -18,8 +18,8 @@ A identificação de desafios, de tendências, de cenários de inovação e das 
 * Identificar cenários em que a plataforma digital pode aumentar a eficiência e eficácia dos serviços prestados aos cidadãos e às empresas
 
 ## Intervenientes
-##### Organismo
-* Dirigentes de topo do organismo
+##### Entidade Pública
+* Dirigentes de topo
 
 ##### Equipa de Transformação
 * Gestor de Projeto 
