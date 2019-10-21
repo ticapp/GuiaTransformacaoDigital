@@ -29,6 +29,7 @@ Para cada jornada identidicada deverão realizadas as atividades identificadas e
 Para cada iniciativa devem ser executadas as atividades definidas em [Definir a Iniciativa](2.2-DefinirIniciativa.md), as quais têm como objetivo definir a iniciativa funcionalmente e em termos de arquitetura de sistemas de informação. Estes dois elementos de informação permitirão que as entidades públicas possam realizar a implementação da mesma quer seja através de recursos internos ou da contratação de fornecedores externos.
 
 
+
 [Acompanhar](3-Acompanhamento.md)  
 A execução do Programa de Transformação Digital e, a consequente implementação das iniciativas, implica deverá ter o acompanhamento da equipa de transformação digital, a qual aborda temas como a gestão do plano de execução, gestão de riscos, avaliação da adesão à arquitetura definida e boas práticas aplicáveis; apresentando recomendações a aplicar que permitam efetivar a transformação pretendida.
 
