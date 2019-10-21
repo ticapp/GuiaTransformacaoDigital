@@ -30,7 +30,7 @@ Para cada jornada identidicada deverão realizadas as atividades identificadas e
 
 [Acompanhar](3-Acompanhamento.md)
   
-A execução do Programa de Transformação Digital e, a consequente implementação das iniciativas, implica deverá ter o acompanhamento da equipa que apoiou a implementaçção, o qual aborda temas como a gestão do plano de execução, gestão de riscos, avaliação da adesão à arquitetura definida e boas práticas aplicáveis; apresentando recomendações a aplicar que permitam efetivar a transformação pretendida.
+A execução do Programa de Transformação Digital e, a consequente implementação das iniciativas, implica deverá ter o acompanhamento da equipa de transformação digital, a qual aborda temas como a gestão do plano de execução, gestão de riscos, avaliação da adesão à arquitetura definida e boas práticas aplicáveis; apresentando recomendações a aplicar que permitam efetivar a transformação pretendida.
 
 
 ![republica_ama_ticapp](images/rodape.png)
