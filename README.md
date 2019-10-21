@@ -1,5 +1,4 @@
 
-# Guia para Projetos de Transformação Digital na Administração Pública Portuguesa 
 
 ![proceso](images/processo_td.png)
 
