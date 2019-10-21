@@ -1,6 +1,6 @@
-﻿# 2. Transformar
+﻿# 2. Definir a Transformação
 
-![Transformar](images/transformar_processo.png)
+![Definir a Transformação](images/transformar_processo.png)
 
 ## Descrição
 

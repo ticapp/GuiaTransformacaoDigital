@@ -27,9 +27,9 @@ A identificação de desafios, de tendências, de cenários de inovação e das 
 * Especialista UX 
 
 ## Exemplos
-![tendencias](images/tendencias.png)
+![Descobrir Tendências, Desafios e Prioridades](images/tendencias2.png)
 
-![](images/cenario_inovacao.png)
+![Cenários de Inovação para a Área Governativa](images/cenarios_inovacao2.png)
 
 ![](images/rodape.png)
 
