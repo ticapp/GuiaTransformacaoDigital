@@ -19,3 +19,7 @@
 [Transformar](2-Transformar.md)
 
 [Acompanhar](3-Acompanhamento.md)
+
+
+![republica](images/republica_portuguesa.png)       ![ama](images/ama_logo.png)
+![ticapp](images/ticapp_logo.png)
