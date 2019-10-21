@@ -7,3 +7,15 @@
 
 
 #### A quem se destina este guia?
+
+
+#### Por onde começar?
+
+
+[Descobrir](0-Descobrir.md)
+
+[Definir](1-DefinicaoVisao.md)
+
+[Transformar](2-Transformar.md)
+
+[Acompanhar](3-Acompanhamento.md)
