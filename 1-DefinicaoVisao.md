@@ -19,8 +19,7 @@
 
 ## Intervenientes
 ##### Organismo
-* Conselho Diretivo
-* Diretores de 1ª Linha
+* Dirigentes de topo do organismo
 
 
 ##### Equipa de Transformação
