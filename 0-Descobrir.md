@@ -19,8 +19,7 @@ A identificação de desafios, de tendências, de cenários de inovação e das 
 
 ## Intervenientes
 ##### Organismo
-* Conselho Diretivo do Organismo
-* Diretores de 1ª Linha
+* Dirigentes de topo do organismo
 
 ##### Equipa de Transformação
 * Gestor de Projeto 
