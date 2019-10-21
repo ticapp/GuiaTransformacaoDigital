@@ -29,3 +29,6 @@ Com o objetivo de apoiar as entidades públicas a executar as iniciativas, defin
 
 ## Recursos
 
+
+
+![rodapé](images/rodape.png)
