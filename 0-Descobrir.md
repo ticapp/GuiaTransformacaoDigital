@@ -4,7 +4,7 @@
 
 ## Descrição
 
-![descobrir](images/descobrir_icon.png)
+![Descobrir](images/descobrir_icon.png)
 A identificação de desafios, de tendências, de cenários de inovação e das iniciativas de modernização em curso e propostas pelo organismo (por exemplo candidaturas SAMA2020), permitirá criar uma base de conhecimento sobre a área governativa da AP na qual o organismo cumpre a sua missão. 
 
 ## Atividades
