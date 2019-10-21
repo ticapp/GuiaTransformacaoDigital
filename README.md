@@ -11,16 +11,26 @@ Este manual fornece orientações práticas e detalhadas sobre como transformar 
 Este manual serve como guia, para as equipas de projeto, na criação de serviços públicos digitais focados nos cidadãos, empresas ou funcionários.
 
 ### Por onde começar?
-A framework usada neste guia e definida pela equipa do TicAPP, permite às entidades públicas, de acordo com a sua maturidade e estágio na jornada de transformação digital, tirar partido das orientações, documentos e exemplos práticos nele apresentados.  
-[Descobrir](0-Descobrir.md)  
-Quando uma entidade pública não possui uma orientação clara de qual a melhor estratégia de transformação a seguir, poderá começar por realizar as atividades definidas na fase de Descobrir. Nesta fase pretende-se sistematizar os desafios, as iniciativas e as prioridades do entidade/área governativa.
+A framework usada neste guia e definida pela equipa do TicAPP para a execução das suas atividades, permite às entidades públicas, que de acordo com a sua maturidade e estágio na jornada de transformação digital, possa tirar partido das orientações, documentos e exemplos práticos nele apresentados.    
 
-[Definir a Visão](1-DefinicaoVisao.md)
+[Descobrir](0-Descobrir.md)    
+
+Quando uma entidade pública não possui uma orientação clara de qual a melhor estratégia de transformação a seguir, poderá começar por realizar as atividades definidas na fase de Descobrir. Nesta fase pretende-se sistematizar os desafios, as iniciativas e as prioridades do entidade/área governativa.  
 
 
-[Transformar](2-Transformar.md)
+[Definir a Visão](1-DefinicaoVisao.md)   
+
+Caso a entidade pública tenha uma ideia clara das iniciativas e prioridades para a transformação e, conheça a forma como outros países estão a tirar partido da infraestrutura digital para evoluir as suas atividades, pode evoluir e definir a sua visão de transformação digital, a qual traduz a sua aspiração e compromisso com um Programa de Transformação Digital.
+  
+
+[Transformar](2-Transformar.md)   
+
+O Programa de Transformação Digital, desenvolvido na fase anterior, deverá permitir identificar quais as jornadas dos utilizadores (cidadãos, empresas ou funcionários) que devem ser alvo de transformação.
+Para cada jornada identidicada deverão realizadas as atividades identificadas em [Transformar a Jornada](2.1-TransformaraJornada.md), que terão como base a metodologia ***Design Thinking***, com base na qual é realizado um trabalho de identificação dos problemas/necessidades e de descoberta de soluções a prototipar e testar, baseando essa descoberta em workshops de ideação. Com base neste trabalho serão identificadas várias iniciativas de melhoria tirando partido das tecnologias emergentes ou por exemplo reengenharia de processos. Para cada iniciativa devem ser executadas as atividades definidas em [Definir a Iniciativa](2.2-DefinirIniciativa.md), a qual terá como objetivo defini-la funcionalmente e em termos de arquitetura de sistemas de informação. Estes dois elementos de informação permitirão que as entidades públicas possam realizar a implementação da mesma quer seja através de recursos internos ou da contratação de fornecedores externos.
 
 [Acompanhar](3-Acompanhamento.md)
+  
+A execução do Programa de Transformação Digital e, a consequente implementação das iniciativas, implica deverá ter o acompanhamento da equipa que apoiou a implementaçção, o qual aborda temas como a gestão do plano de execução, gestão de riscos, avaliação da adesão à arquitetura definida e boas práticas aplicáveis; apresentando recomendações a aplicar que permitam efetivar a transformação pretendida.
 
 
 ![republica_ama_ticapp](images/rodape.png)
