@@ -17,8 +17,8 @@
 * Definição do Programa  de Transformação Digital 
 
 ## Intervenientes
-##### Organismo
-* Dirigentes de topo do organismo
+##### Entidade Pùblica
+* Dirigentes de topo
 
 ##### Equipa de Transformação
 * Gestor de Projeto
