@@ -27,6 +27,7 @@ A identificação de desafios, de tendências, de cenários de inovação e das 
 * Consultor de Transformação Digital
 * Especialista UX 
 
+![](images/rodape.png)
 
 
 
