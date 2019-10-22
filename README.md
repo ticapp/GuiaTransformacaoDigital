@@ -1,6 +1,6 @@
 
 
-![Framework de Transformação Digital](images/processo_td2.png)
+![Framework de Transformação Digital](images/processo_td.png)
 
 ### A razão da criação deste guia?
 O nosso objetivo é prestar serviços públicos digitais que sejam simples de usar e acessíveis a qualquer cidadão ou empresa, independentemente da sua condição, localização ou dispositivo utilizado. Queremos que o contato entre os utilizadores e os serviços públicos seja cómodo e conveniente, de forma semelhante ao que de melhor já experimentaram noutras atividades realizadas online. 
