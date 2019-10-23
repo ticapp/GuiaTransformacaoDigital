@@ -11,7 +11,7 @@ Este manual fornece orientações práticas e detalhadas sobre como transformar 
 Este manual serve como guia, para as equipas de projeto, na criação de serviços públicos digitais focados nos cidadãos, empresas ou funcionários.
 
 ### Por onde começar?
-A framework usada neste guia e definida pela equipa do TicAPP para a execução das suas atividades no âmbito da transformação digital da Administração Pública, permite às entidades públicas, que de acordo com a sua maturidade e estágio na jornada de transformação d, possa tirar partido das orientações, documentos e exemplos práticos aqui apresentados.    
+A framework usada neste guia e definida pela equipa do TicAPP para a execução das suas atividades no âmbito da transformação digital da Administração Pública, permite às entidades públicas, que de acordo com a sua maturidade e estágio na jornada de transformação digital, possa tirar partido das orientações, documentos e exemplos práticos aqui apresentados.    
 
 
 [Descobrir](0-Descobrir.md)    
@@ -27,7 +27,7 @@ O Programa de Transformação Digital, desenvolvido na fase anterior, deverá pe
 Para cada jornada identificada deverão realizadas as atividades identificadas em [Transformar a Jornada](2.1-TransformaraJornada.md), que terão como base a metodologia ***Design Thinking***. Com base neste trabalho serão identificadas várias iniciativas de melhoria tirando partido das tecnologias emergentes ou por exemplo reengenharia de processos. Para cada iniciativa devem ser executadas as atividades definidas em [Definir a Iniciativa](2.2-DefinirIniciativa.md), as quais têm como objetivo definir a iniciativa funcionalmente e em termos de arquitetura de sistemas de informação. 
 
 [Acompanhar](3-Acompanhamento.md)  
-A execução do Programa de Transformação Digital e, a consequente implementação das iniciativas, implica deverá ter o acompanhamento da equipa de transformação digital, a qual aborda temas como a gestão do plano de execução, gestão de riscos, avaliação da adesão à arquitetura definida e boas práticas aplicáveis; apresentando recomendações a aplicar que permitam efetivar a transformação pretendida.
+A execução do Programa de Transformação Digital e, a consequente implementação das iniciativas, deverá ter o acompanhamento da equipa de transformação digital, a qual aborda temas como a gestão do plano de execução, gestão de riscos, avaliação da adesão à arquitetura definida e boas práticas aplicáveis; apresentando recomendações a aplicar que permitam efetivar a transformação pretendida.
 
 
 ![republica_ama_ticapp](images/rodape.png)
