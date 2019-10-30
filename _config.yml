@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: Guia para Projetos de Transformação Digital
 logo: images/logo_ticapp_black_250px.png
+# Google Analytics
+google_analytics: G-EYDWPZZQKN
